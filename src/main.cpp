@@ -34,7 +34,8 @@ int main()
   // Place your code logic after this comment line
   // ***********************************************************
 
-  cout << "Hello World!" << endl;
+  cout << "Hello" << endl;
+  cout << "World" << endl;
 
   // ********************** DO NOT CHANGE **********************
   // Print a new line and ask user for any key before exiting
