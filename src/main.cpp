@@ -34,11 +34,7 @@ int main()
   // Place your code logic after this comment line
   // ***********************************************************
 
-  cout << "H";
-  cout << "e";
-  cout << "l";
-  cout << "l";
-  cout << "o" << endl;
+  cout << "Hello" << endl;
   cout << "W";
   cout << "o";
   cout << "r";
